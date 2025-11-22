@@ -1,9 +1,22 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ChemRXiv":
+  url: https://chemrxiv.org
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Inorg. Chem.":
+  url: https://pubs.acs.org/journal/inocaj
+  color: "#009dff"
 
-"Vision":
-  color: "#009f36"
+"J. Am. Chem. Soc.":
+  url: https://pubs.acs.org/journal/jacsat
+  color: "#28327f"
+
+"J. Am. Soc. Mass Spectrom.":
+  url: https://pubs.acs.org/journal/jamsef
+  color: "#d41f24"
+
+"Chem. Sci.":
+  url: https://pubs.rsc.org/
+  color: "#004976"
+
+"Materials":
+  url: https://www.mdpi.com/journal/materials
+  color: "#996432"
